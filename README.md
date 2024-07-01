@@ -8,6 +8,9 @@ medical history and your daily vitals depicted as interactive graphs so that tra
 play. This is a Health Assistance Website which will help doctors and patients to access patient’s medical history 
 and effects. We have used creative charts, which can be looked upon and understood easily by doctors as well as patients.
 
+## Presentation Link
+https://docs.google.com/presentation/d/1kun7MwWn8pxJTTpR4Kol3xgUod2S4zyu/edit?usp=sharing&ouid=117158445292672123876&rtpof=true&sd=true
+
 
 ## Tech Stack
 
